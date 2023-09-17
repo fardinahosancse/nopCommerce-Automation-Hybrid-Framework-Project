@@ -1,0 +1,452 @@
+2023-09-17 12:42:34,456 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 12:42:50,590 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 12:42:50,656 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 12:42:52,778 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_submenu_xpath_firefox
+2023-09-17 12:42:56,378 - BasePage.py:[25] - [INFO] - >Clicking on a Element: add_new_customer_xpath
+2023-09-17 12:42:56,461 - BasePage.py:[49] - [INFO] - >Typing on a Element: email_xpath---tecgbow@live.com
+2023-09-17 12:42:56,812 - BasePage.py:[49] - [INFO] - >Typing on a Element: password_xpath---john11@#AB
+2023-09-17 12:42:56,863 - BasePage.py:[49] - [INFO] - >Typing on a Element: firstname_xpath---Tunir
+2023-09-17 12:42:56,912 - BasePage.py:[49] - [INFO] - >Typing on a Element: lastname_xpath---Ma
+2023-09-17 12:42:56,962 - BasePage.py:[25] - [INFO] - >Clicking on a Element: gender_xpath
+2023-09-17 12:42:57,032 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_toggle_xpath
+2023-09-17 12:42:57,599 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_xpath
+2023-09-17 12:42:57,657 - BasePage.py:[49] - [INFO] - >Typing on a Element: company_xpath---Doe International
+2023-09-17 12:42:57,699 - BasePage.py:[25] - [INFO] - >Clicking on a Element: isTaxAttempth_MENU_xpath
+2023-09-17 12:42:57,755 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_MENU_xpath
+2023-09-17 12:42:58,317 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_subMENU_xpath
+2023-09-17 12:42:58,429 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_xpath
+2023-09-17 12:42:58,982 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_selection_xpath
+2023-09-17 12:42:59,165 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_xpath
+2023-09-17 12:42:59,201 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_selection_xpath
+2023-09-17 12:42:59,269 - BasePage.py:[49] - [INFO] - >Typing on a Element: adminComment_xpath---Level 2 Clearence
+2023-09-17 12:43:05,463 - BasePage.py:[25] - [INFO] - >Clicking on a Element: save_xpath
+2023-09-17 12:43:31,274 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 12:43:32,007 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 12:44:10,820 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 12:44:11,339 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 12:44:13,552 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_submenu_xpath_firefox
+2023-09-17 12:44:19,030 - BasePage.py:[25] - [INFO] - >Clicking on a Element: add_new_customer_xpath
+2023-09-17 12:44:19,410 - BasePage.py:[49] - [INFO] - >Typing on a Element: email_xpath---tecgbow@live.com
+2023-09-17 12:44:19,460 - BasePage.py:[49] - [INFO] - >Typing on a Element: password_xpath---john11@#AB
+2023-09-17 12:44:19,510 - BasePage.py:[49] - [INFO] - >Typing on a Element: firstname_xpath---Tunir
+2023-09-17 12:44:19,560 - BasePage.py:[49] - [INFO] - >Typing on a Element: lastname_xpath---Ma
+2023-09-17 12:44:19,609 - BasePage.py:[25] - [INFO] - >Clicking on a Element: gender_xpath
+2023-09-17 12:44:19,693 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_toggle_xpath
+2023-09-17 12:44:20,247 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_xpath
+2023-09-17 12:44:20,310 - BasePage.py:[49] - [INFO] - >Typing on a Element: company_xpath---Doe International
+2023-09-17 12:44:20,344 - BasePage.py:[25] - [INFO] - >Clicking on a Element: isTaxAttempth_MENU_xpath
+2023-09-17 12:44:20,407 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_MENU_xpath
+2023-09-17 12:44:20,949 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_subMENU_xpath
+2023-09-17 12:44:21,063 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_xpath
+2023-09-17 12:44:21,103 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_selection_xpath
+2023-09-17 12:44:21,228 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_xpath
+2023-09-17 12:44:21,265 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_selection_xpath
+2023-09-17 12:44:21,337 - BasePage.py:[49] - [INFO] - >Typing on a Element: adminComment_xpath---Level 2 Clearence
+2023-09-17 12:44:25,535 - BasePage.py:[25] - [INFO] - >Clicking on a Element: save_xpath
+2023-09-17 12:55:32,199 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 12:55:32,266 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 12:55:34,994 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_submenu_xpath_firefox
+2023-09-17 12:55:37,065 - BasePage.py:[25] - [INFO] - >Clicking on a Element: add_new_customer_xpath
+2023-09-17 12:55:37,443 - BasePage.py:[49] - [INFO] - >Typing on a Element: email_xpath---tecgbow@live.com
+2023-09-17 12:55:37,522 - BasePage.py:[49] - [INFO] - >Typing on a Element: password_xpath---john11@#AB
+2023-09-17 12:55:37,573 - BasePage.py:[49] - [INFO] - >Typing on a Element: firstname_xpath---Tunir
+2023-09-17 12:55:37,613 - BasePage.py:[49] - [INFO] - >Typing on a Element: lastname_xpath---Ma
+2023-09-17 12:55:37,663 - BasePage.py:[25] - [INFO] - >Clicking on a Element: gender_xpath
+2023-09-17 12:55:37,733 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_toggle_xpath
+2023-09-17 12:55:38,303 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_xpath
+2023-09-17 12:55:38,376 - BasePage.py:[49] - [INFO] - >Typing on a Element: company_xpath---Doe International
+2023-09-17 12:55:38,415 - BasePage.py:[25] - [INFO] - >Clicking on a Element: isTaxAttempth_MENU_xpath
+2023-09-17 12:55:38,480 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_MENU_xpath
+2023-09-17 12:55:39,035 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_subMENU_xpath
+2023-09-17 12:55:39,148 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_xpath
+2023-09-17 12:55:39,701 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_selection_xpath
+2023-09-17 12:55:39,878 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_xpath
+2023-09-17 12:55:39,913 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_selection_xpath
+2023-09-17 12:55:39,972 - BasePage.py:[49] - [INFO] - >Typing on a Element: adminComment_xpath---Level 2 Clearence
+2023-09-17 12:55:44,141 - BasePage.py:[25] - [INFO] - >Clicking on a Element: save_xpath
+2023-09-17 13:05:51,250 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 13:05:51,312 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 13:05:54,191 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_submenu_xpath_firefox
+2023-09-17 13:05:57,271 - BasePage.py:[25] - [INFO] - >Clicking on a Element: add_new_customer_xpath
+2023-09-17 13:05:57,684 - BasePage.py:[49] - [INFO] - >Typing on a Element: email_xpath---tecgbow@live.com
+2023-09-17 13:05:57,744 - BasePage.py:[49] - [INFO] - >Typing on a Element: password_xpath---john11@#AB
+2023-09-17 13:05:57,788 - BasePage.py:[49] - [INFO] - >Typing on a Element: firstname_xpath---Tunir
+2023-09-17 13:05:57,838 - BasePage.py:[49] - [INFO] - >Typing on a Element: lastname_xpath---Ma
+2023-09-17 13:05:57,888 - BasePage.py:[25] - [INFO] - >Clicking on a Element: gender_xpath
+2023-09-17 13:05:57,963 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_toggle_xpath
+2023-09-17 13:05:58,526 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_xpath
+2023-09-17 13:05:58,585 - BasePage.py:[49] - [INFO] - >Typing on a Element: company_xpath---Doe International
+2023-09-17 13:05:58,622 - BasePage.py:[25] - [INFO] - >Clicking on a Element: isTaxAttempth_MENU_xpath
+2023-09-17 13:05:58,682 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_MENU_xpath
+2023-09-17 13:05:59,244 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_subMENU_xpath
+2023-09-17 13:05:59,420 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_xpath
+2023-09-17 13:05:59,974 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_selection_xpath
+2023-09-17 13:06:00,086 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_xpath
+2023-09-17 13:06:00,125 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_selection_xpath
+2023-09-17 13:06:00,198 - BasePage.py:[49] - [INFO] - >Typing on a Element: adminComment_xpath---Level 2 Clearence
+2023-09-17 13:06:04,920 - BasePage.py:[25] - [INFO] - >Clicking on a Element: save_xpath
+2023-09-17 13:06:25,245 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 13:06:26,014 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 13:09:04,806 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 13:09:04,862 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 13:09:08,588 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_submenu_xpath_firefox
+2023-09-17 13:09:11,252 - BasePage.py:[25] - [INFO] - >Clicking on a Element: add_new_customer_xpath
+2023-09-17 13:09:11,323 - BasePage.py:[49] - [INFO] - >Typing on a Element: email_xpath---tesgdrgbdrfcgbow@live.com
+2023-09-17 13:09:11,383 - BasePage.py:[49] - [INFO] - >Typing on a Element: password_xpath---john11@#AB
+2023-09-17 13:09:11,432 - BasePage.py:[49] - [INFO] - >Typing on a Element: firstname_xpath---Tunir
+2023-09-17 13:09:11,466 - BasePage.py:[49] - [INFO] - >Typing on a Element: lastname_xpath---Ma
+2023-09-17 13:09:11,523 - BasePage.py:[25] - [INFO] - >Clicking on a Element: gender_xpath
+2023-09-17 13:09:11,591 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_toggle_xpath
+2023-09-17 13:09:12,153 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_xpath
+2023-09-17 13:09:12,215 - BasePage.py:[49] - [INFO] - >Typing on a Element: company_xpath---Doe International
+2023-09-17 13:09:12,250 - BasePage.py:[25] - [INFO] - >Clicking on a Element: isTaxAttempth_MENU_xpath
+2023-09-17 13:09:12,308 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_MENU_xpath
+2023-09-17 13:09:12,869 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_subMENU_xpath
+2023-09-17 13:09:13,045 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_xpath
+2023-09-17 13:09:13,596 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_selection_xpath
+2023-09-17 13:09:13,715 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_xpath
+2023-09-17 13:09:13,756 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_selection_xpath
+2023-09-17 13:09:13,833 - BasePage.py:[49] - [INFO] - >Typing on a Element: adminComment_xpath---Level 2 Clearence
+2023-09-17 13:09:19,167 - BasePage.py:[25] - [INFO] - >Clicking on a Element: save_xpath
+2023-09-17 13:11:03,634 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 13:11:03,706 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 13:11:05,819 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_submenu_xpath_firefox
+2023-09-17 13:11:07,343 - BasePage.py:[25] - [INFO] - >Clicking on a Element: add_new_customer_xpath
+2023-09-17 13:11:07,413 - BasePage.py:[49] - [INFO] - >Typing on a Element: email_xpath---tesgdrgbdrfcgbow@live.com
+2023-09-17 13:11:07,463 - BasePage.py:[49] - [INFO] - >Typing on a Element: password_xpath---john11@#AB
+2023-09-17 13:11:07,515 - BasePage.py:[49] - [INFO] - >Typing on a Element: firstname_xpath---Tunir
+2023-09-17 13:11:07,564 - BasePage.py:[49] - [INFO] - >Typing on a Element: lastname_xpath---Ma
+2023-09-17 13:11:07,618 - BasePage.py:[25] - [INFO] - >Clicking on a Element: gender_xpath
+2023-09-17 13:11:07,690 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_toggle_xpath
+2023-09-17 13:11:08,252 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_xpath
+2023-09-17 13:11:08,315 - BasePage.py:[49] - [INFO] - >Typing on a Element: company_xpath---Doe International
+2023-09-17 13:11:08,413 - BasePage.py:[25] - [INFO] - >Clicking on a Element: isTaxAttempth_MENU_xpath
+2023-09-17 13:11:08,467 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_MENU_xpath
+2023-09-17 13:11:09,031 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_subMENU_xpath
+2023-09-17 13:11:09,144 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_xpath
+2023-09-17 13:11:09,689 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_selection_xpath
+2023-09-17 13:11:09,812 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_xpath
+2023-09-17 13:11:09,852 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_selection_xpath
+2023-09-17 13:11:09,925 - BasePage.py:[49] - [INFO] - >Typing on a Element: adminComment_xpath---Level 2 Clearence
+2023-09-17 13:11:14,870 - BasePage.py:[25] - [INFO] - >Clicking on a Element: save_xpath
+2023-09-17 13:11:54,311 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 13:11:54,383 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 13:11:57,027 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_submenu_xpath_firefox
+2023-09-17 13:11:59,260 - BasePage.py:[25] - [INFO] - >Clicking on a Element: add_new_customer_xpath
+2023-09-17 13:11:59,638 - BasePage.py:[49] - [INFO] - >Typing on a Element: email_xpath---tesgdrgbdrfcgbow@live.com
+2023-09-17 13:11:59,717 - BasePage.py:[49] - [INFO] - >Typing on a Element: password_xpath---john11@#AB
+2023-09-17 13:11:59,767 - BasePage.py:[49] - [INFO] - >Typing on a Element: firstname_xpath---Tunir
+2023-09-17 13:11:59,811 - BasePage.py:[49] - [INFO] - >Typing on a Element: lastname_xpath---Ma
+2023-09-17 13:11:59,860 - BasePage.py:[25] - [INFO] - >Clicking on a Element: gender_xpath
+2023-09-17 13:11:59,924 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_toggle_xpath
+2023-09-17 13:12:00,488 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_xpath
+2023-09-17 13:12:00,550 - BasePage.py:[49] - [INFO] - >Typing on a Element: company_xpath---Doe International
+2023-09-17 13:12:00,650 - BasePage.py:[25] - [INFO] - >Clicking on a Element: isTaxAttempth_MENU_xpath
+2023-09-17 13:12:00,703 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_MENU_xpath
+2023-09-17 13:12:01,266 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_subMENU_xpath
+2023-09-17 13:12:01,379 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_xpath
+2023-09-17 13:12:01,940 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_selection_xpath
+2023-09-17 13:12:02,061 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_xpath
+2023-09-17 13:12:02,100 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_selection_xpath
+2023-09-17 13:12:02,171 - BasePage.py:[49] - [INFO] - >Typing on a Element: adminComment_xpath---Level 2 Clearence
+2023-09-17 13:12:06,781 - BasePage.py:[25] - [INFO] - >Clicking on a Element: save_xpath
+2023-09-17 13:12:43,003 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 13:12:43,070 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 13:12:45,060 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_submenu_xpath_firefox
+2023-09-17 13:12:47,200 - BasePage.py:[25] - [INFO] - >Clicking on a Element: add_new_customer_xpath
+2023-09-17 13:12:47,293 - BasePage.py:[49] - [INFO] - >Typing on a Element: email_xpath---tesgdrgbdrfcgbow@live.com
+2023-09-17 13:12:47,647 - BasePage.py:[49] - [INFO] - >Typing on a Element: password_xpath---john11@#AB
+2023-09-17 13:12:47,697 - BasePage.py:[49] - [INFO] - >Typing on a Element: firstname_xpath---Tunir
+2023-09-17 13:12:47,745 - BasePage.py:[49] - [INFO] - >Typing on a Element: lastname_xpath---Ma
+2023-09-17 13:12:47,794 - BasePage.py:[25] - [INFO] - >Clicking on a Element: gender_xpath
+2023-09-17 13:12:47,872 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_toggle_xpath
+2023-09-17 13:12:48,428 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_xpath
+2023-09-17 13:12:48,487 - BasePage.py:[49] - [INFO] - >Typing on a Element: company_xpath---Doe International
+2023-09-17 13:12:48,529 - BasePage.py:[25] - [INFO] - >Clicking on a Element: isTaxAttempth_MENU_xpath
+2023-09-17 13:12:48,590 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_MENU_xpath
+2023-09-17 13:12:49,144 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_subMENU_xpath
+2023-09-17 13:12:49,324 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_xpath
+2023-09-17 13:12:49,866 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_selection_xpath
+2023-09-17 13:12:49,976 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_xpath
+2023-09-17 13:12:50,012 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_selection_xpath
+2023-09-17 13:12:50,069 - BasePage.py:[49] - [INFO] - >Typing on a Element: adminComment_xpath---Level 2 Clearence
+2023-09-17 13:12:54,273 - BasePage.py:[25] - [INFO] - >Clicking on a Element: save_xpath
+2023-09-17 13:14:19,386 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 13:14:19,447 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 13:14:22,128 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_submenu_xpath_firefox
+2023-09-17 13:14:24,317 - BasePage.py:[25] - [INFO] - >Clicking on a Element: add_new_customer_xpath
+2023-09-17 13:14:24,695 - BasePage.py:[49] - [INFO] - >Typing on a Element: email_xpath---Sakib Al Hasan
+2023-09-17 13:14:24,758 - BasePage.py:[49] - [INFO] - >Typing on a Element: password_xpath---john11@#AB
+2023-09-17 13:14:24,808 - BasePage.py:[49] - [INFO] - >Typing on a Element: firstname_xpath---Sakib
+2023-09-17 13:14:24,859 - BasePage.py:[49] - [INFO] - >Typing on a Element: lastname_xpath---Al Hasan
+2023-09-17 13:14:24,908 - BasePage.py:[25] - [INFO] - >Clicking on a Element: gender_xpath
+2023-09-17 13:14:24,982 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_toggle_xpath
+2023-09-17 13:14:25,547 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_xpath
+2023-09-17 13:14:25,614 - BasePage.py:[49] - [INFO] - >Typing on a Element: company_xpath---Doe International
+2023-09-17 13:14:25,659 - BasePage.py:[25] - [INFO] - >Clicking on a Element: isTaxAttempth_MENU_xpath
+2023-09-17 13:14:25,716 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_MENU_xpath
+2023-09-17 13:14:26,270 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_subMENU_xpath
+2023-09-17 13:14:26,392 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_xpath
+2023-09-17 13:14:26,936 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_selection_xpath
+2023-09-17 13:14:27,119 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_xpath
+2023-09-17 13:14:27,160 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_selection_xpath
+2023-09-17 13:14:27,224 - BasePage.py:[49] - [INFO] - >Typing on a Element: adminComment_xpath---Level 2 Clearence
+2023-09-17 13:14:30,274 - BasePage.py:[25] - [INFO] - >Clicking on a Element: save_xpath
+2023-09-17 13:15:16,158 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 13:15:16,237 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 13:15:20,240 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_submenu_xpath_firefox
+2023-09-17 13:15:22,765 - BasePage.py:[25] - [INFO] - >Clicking on a Element: add_new_customer_xpath
+2023-09-17 13:15:23,172 - BasePage.py:[49] - [INFO] - >Typing on a Element: email_xpath---sakib@gmail.com
+2023-09-17 13:15:23,229 - BasePage.py:[49] - [INFO] - >Typing on a Element: password_xpath---john11@#AB
+2023-09-17 13:15:23,274 - BasePage.py:[49] - [INFO] - >Typing on a Element: firstname_xpath---Sakib
+2023-09-17 13:15:23,323 - BasePage.py:[49] - [INFO] - >Typing on a Element: lastname_xpath---Al Hasan
+2023-09-17 13:15:23,377 - BasePage.py:[25] - [INFO] - >Clicking on a Element: gender_xpath
+2023-09-17 13:15:23,453 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_toggle_xpath
+2023-09-17 13:15:24,010 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_xpath
+2023-09-17 13:15:24,148 - BasePage.py:[49] - [INFO] - >Typing on a Element: company_xpath---Doe International
+2023-09-17 13:15:24,190 - BasePage.py:[25] - [INFO] - >Clicking on a Element: isTaxAttempth_MENU_xpath
+2023-09-17 13:15:24,242 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_MENU_xpath
+2023-09-17 13:15:24,795 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_subMENU_xpath
+2023-09-17 13:15:24,909 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_xpath
+2023-09-17 13:15:25,464 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_selection_xpath
+2023-09-17 13:15:25,637 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_xpath
+2023-09-17 13:15:25,678 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_selection_xpath
+2023-09-17 13:15:25,742 - BasePage.py:[49] - [INFO] - >Typing on a Element: adminComment_xpath---Level 2 Clearence
+2023-09-17 13:15:30,859 - BasePage.py:[25] - [INFO] - >Clicking on a Element: save_xpath
+2023-09-17 13:16:41,058 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 13:16:41,583 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 13:16:43,150 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_submenu_xpath_firefox
+2023-09-17 13:16:45,328 - BasePage.py:[25] - [INFO] - >Clicking on a Element: add_new_customer_xpath
+2023-09-17 13:16:45,415 - BasePage.py:[49] - [INFO] - >Typing on a Element: email_xpath---sakisb@gmail.com
+2023-09-17 13:16:45,788 - BasePage.py:[49] - [INFO] - >Typing on a Element: password_xpath---john11@#AB
+2023-09-17 13:16:45,844 - BasePage.py:[49] - [INFO] - >Typing on a Element: firstname_xpath---Sakib
+2023-09-17 13:16:45,887 - BasePage.py:[49] - [INFO] - >Typing on a Element: lastname_xpath---Al Hasan
+2023-09-17 13:16:45,953 - BasePage.py:[25] - [INFO] - >Clicking on a Element: gender_xpath
+2023-09-17 13:16:46,025 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_toggle_xpath
+2023-09-17 13:16:46,595 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_xpath
+2023-09-17 13:16:46,659 - BasePage.py:[49] - [INFO] - >Typing on a Element: company_xpath---Doe International
+2023-09-17 13:16:46,705 - BasePage.py:[25] - [INFO] - >Clicking on a Element: isTaxAttempth_MENU_xpath
+2023-09-17 13:16:46,761 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_MENU_xpath
+2023-09-17 13:16:47,312 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_subMENU_xpath
+2023-09-17 13:16:47,488 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_xpath
+2023-09-17 13:16:48,031 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_selection_xpath
+2023-09-17 13:16:48,151 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_xpath
+2023-09-17 13:16:48,189 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_selection_xpath
+2023-09-17 13:16:48,258 - BasePage.py:[49] - [INFO] - >Typing on a Element: adminComment_xpath---Level 2 Clearence
+2023-09-17 13:16:53,453 - BasePage.py:[25] - [INFO] - >Clicking on a Element: save_xpath
+2023-09-17 13:18:46,289 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 13:19:22,167 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 13:19:22,916 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 13:19:25,254 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_submenu_xpath_firefox
+2023-09-17 13:19:28,400 - BasePage.py:[25] - [INFO] - >Clicking on a Element: add_new_customer_xpath
+2023-09-17 13:19:28,809 - BasePage.py:[49] - [INFO] - >Typing on a Element: email_xpath---sakisdb@gmail.com
+2023-09-17 13:19:28,869 - BasePage.py:[49] - [INFO] - >Typing on a Element: password_xpath---john11@#AB
+2023-09-17 13:19:28,917 - BasePage.py:[49] - [INFO] - >Typing on a Element: firstname_xpath---Sakib
+2023-09-17 13:19:28,969 - BasePage.py:[49] - [INFO] - >Typing on a Element: lastname_xpath---Al Hasan
+2023-09-17 13:19:29,017 - BasePage.py:[25] - [INFO] - >Clicking on a Element: gender_xpath
+2023-09-17 13:19:29,091 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_toggle_xpath
+2023-09-17 13:19:29,653 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_xpath
+2023-09-17 13:19:29,711 - BasePage.py:[49] - [INFO] - >Typing on a Element: company_xpath---Doe International
+2023-09-17 13:19:29,752 - BasePage.py:[25] - [INFO] - >Clicking on a Element: isTaxAttempth_MENU_xpath
+2023-09-17 13:19:29,812 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_MENU_xpath
+2023-09-17 13:19:30,353 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_subMENU_xpath
+2023-09-17 13:19:30,534 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_xpath
+2023-09-17 13:19:31,082 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_selection_xpath
+2023-09-17 13:19:31,199 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_xpath
+2023-09-17 13:19:31,239 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_selection_xpath
+2023-09-17 13:19:31,339 - BasePage.py:[49] - [INFO] - >Typing on a Element: adminComment_xpath---Level 2 Clearence
+2023-09-17 13:19:37,573 - BasePage.py:[25] - [INFO] - >Clicking on a Element: save_xpath
+2023-09-17 13:20:53,165 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 13:20:53,237 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 13:20:57,708 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_submenu_xpath_firefox
+2023-09-17 13:21:00,665 - BasePage.py:[25] - [INFO] - >Clicking on a Element: add_new_customer_xpath
+2023-09-17 13:21:01,038 - BasePage.py:[49] - [INFO] - >Typing on a Element: email_xpath---sakisdb@gmail.com
+2023-09-17 13:21:01,098 - BasePage.py:[49] - [INFO] - >Typing on a Element: password_xpath---john11@#AB
+2023-09-17 13:21:01,148 - BasePage.py:[49] - [INFO] - >Typing on a Element: firstname_xpath---Sakib
+2023-09-17 13:21:01,200 - BasePage.py:[49] - [INFO] - >Typing on a Element: lastname_xpath---Al Hasan
+2023-09-17 13:21:01,249 - BasePage.py:[25] - [INFO] - >Clicking on a Element: gender_xpath
+2023-09-17 13:21:01,322 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_toggle_xpath
+2023-09-17 13:21:01,886 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_xpath
+2023-09-17 13:21:01,951 - BasePage.py:[49] - [INFO] - >Typing on a Element: company_xpath---Doe International
+2023-09-17 13:21:02,047 - BasePage.py:[25] - [INFO] - >Clicking on a Element: isTaxAttempth_MENU_xpath
+2023-09-17 13:21:02,106 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_MENU_xpath
+2023-09-17 13:21:02,655 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_subMENU_xpath
+2023-09-17 13:21:02,766 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_xpath
+2023-09-17 13:21:03,321 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_selection_xpath
+2023-09-17 13:21:03,495 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_xpath
+2023-09-17 13:21:03,533 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_selection_xpath
+2023-09-17 13:21:03,601 - BasePage.py:[49] - [INFO] - >Typing on a Element: adminComment_xpath---Level 2 Clearence
+2023-09-17 13:21:08,420 - BasePage.py:[25] - [INFO] - >Clicking on a Element: save_xpath
+2023-09-17 13:30:48,037 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 13:30:48,110 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 13:30:51,215 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_submenu_xpath_firefox
+2023-09-17 13:30:54,284 - BasePage.py:[25] - [INFO] - >Clicking on a Element: add_new_customer_xpath
+2023-09-17 13:30:54,692 - BasePage.py:[49] - [INFO] - >Typing on a Element: email_xpath---sakisdb@gmsail.com
+2023-09-17 13:30:54,754 - BasePage.py:[49] - [INFO] - >Typing on a Element: password_xpath---john11@#AB
+2023-09-17 13:30:54,801 - BasePage.py:[49] - [INFO] - >Typing on a Element: firstname_xpath---Sakib
+2023-09-17 13:30:54,849 - BasePage.py:[49] - [INFO] - >Typing on a Element: lastname_xpath---Al Hasan
+2023-09-17 13:30:54,901 - BasePage.py:[25] - [INFO] - >Clicking on a Element: gender_xpath
+2023-09-17 13:30:54,984 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_toggle_xpath
+2023-09-17 13:30:55,555 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_xpath
+2023-09-17 13:30:55,621 - BasePage.py:[49] - [INFO] - >Typing on a Element: company_xpath---Doe International
+2023-09-17 13:30:55,732 - BasePage.py:[25] - [INFO] - >Clicking on a Element: isTaxAttempth_MENU_xpath
+2023-09-17 13:30:55,790 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_MENU_xpath
+2023-09-17 13:30:56,356 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_subMENU_xpath
+2023-09-17 13:30:56,534 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_xpath
+2023-09-17 13:30:57,087 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_selection_xpath
+2023-09-17 13:30:57,262 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_xpath
+2023-09-17 13:30:57,302 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_selection_xpath
+2023-09-17 13:30:57,377 - BasePage.py:[49] - [INFO] - >Typing on a Element: adminComment_xpath---Level 2 Clearence
+2023-09-17 13:31:02,372 - BasePage.py:[25] - [INFO] - >Clicking on a Element: save_xpath
+2023-09-17 13:35:52,977 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 13:35:53,049 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 13:35:55,878 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_submenu_xpath_firefox
+2023-09-17 13:35:57,422 - BasePage.py:[25] - [INFO] - >Clicking on a Element: add_new_customer_xpath
+2023-09-17 13:35:57,492 - BasePage.py:[49] - [INFO] - >Typing on a Element: email_xpath---sakisdb@gmsail.com
+2023-09-17 13:35:57,552 - BasePage.py:[49] - [INFO] - >Typing on a Element: password_xpath---john11@#AB
+2023-09-17 13:35:57,607 - BasePage.py:[49] - [INFO] - >Typing on a Element: firstname_xpath---Sakib
+2023-09-17 13:35:57,659 - BasePage.py:[49] - [INFO] - >Typing on a Element: lastname_xpath---Al Hasan
+2023-09-17 13:35:57,708 - BasePage.py:[25] - [INFO] - >Clicking on a Element: gender_xpath
+2023-09-17 13:35:57,778 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_toggle_xpath
+2023-09-17 13:35:58,347 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_xpath
+2023-09-17 13:35:58,413 - BasePage.py:[49] - [INFO] - >Typing on a Element: company_xpath---Doe International
+2023-09-17 13:35:58,513 - BasePage.py:[25] - [INFO] - >Clicking on a Element: isTaxAttempth_MENU_xpath
+2023-09-17 13:35:58,565 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_MENU_xpath
+2023-09-17 13:35:59,130 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_subMENU_xpath
+2023-09-17 13:35:59,307 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_xpath
+2023-09-17 13:35:59,863 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_selection_xpath
+2023-09-17 13:36:00,039 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_xpath
+2023-09-17 13:36:00,079 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_selection_xpath
+2023-09-17 13:36:00,151 - BasePage.py:[49] - [INFO] - >Typing on a Element: adminComment_xpath---Level 2 Clearence
+2023-09-17 13:36:04,002 - BasePage.py:[25] - [INFO] - >Clicking on a Element: save_xpath
+2023-09-17 13:36:31,656 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 13:36:31,722 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 13:36:34,756 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_submenu_xpath_firefox
+2023-09-17 13:36:37,262 - BasePage.py:[25] - [INFO] - >Clicking on a Element: add_new_customer_xpath
+2023-09-17 13:36:37,347 - BasePage.py:[49] - [INFO] - >Typing on a Element: email_xpath---sakisdb@gmssail.com
+2023-09-17 13:36:37,690 - BasePage.py:[49] - [INFO] - >Typing on a Element: password_xpath---john11@#AB
+2023-09-17 13:36:37,756 - BasePage.py:[49] - [INFO] - >Typing on a Element: firstname_xpath---Sakib
+2023-09-17 13:36:37,808 - BasePage.py:[49] - [INFO] - >Typing on a Element: lastname_xpath---Al Hasan
+2023-09-17 13:36:37,858 - BasePage.py:[25] - [INFO] - >Clicking on a Element: gender_xpath
+2023-09-17 13:36:37,932 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_toggle_xpath
+2023-09-17 13:36:38,495 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_xpath
+2023-09-17 13:36:38,557 - BasePage.py:[49] - [INFO] - >Typing on a Element: company_xpath---Doe International
+2023-09-17 13:36:38,591 - BasePage.py:[25] - [INFO] - >Clicking on a Element: isTaxAttempth_MENU_xpath
+2023-09-17 13:36:38,651 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_MENU_xpath
+2023-09-17 13:36:39,211 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_subMENU_xpath
+2023-09-17 13:36:39,390 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_xpath
+2023-09-17 13:36:39,933 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_selection_xpath
+2023-09-17 13:36:40,054 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_xpath
+2023-09-17 13:36:40,094 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_selection_xpath
+2023-09-17 13:36:40,164 - BasePage.py:[49] - [INFO] - >Typing on a Element: adminComment_xpath---Level 2 Clearence
+2023-09-17 13:36:44,695 - BasePage.py:[25] - [INFO] - >Clicking on a Element: save_xpath
+2023-09-17 13:37:44,659 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 13:37:44,736 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 13:37:47,997 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_submenu_xpath_firefox
+2023-09-17 13:37:50,757 - BasePage.py:[25] - [INFO] - >Clicking on a Element: add_new_customer_xpath
+2023-09-17 13:37:51,141 - BasePage.py:[49] - [INFO] - >Typing on a Element: email_xpath---sakissssdb@gmssail.com
+2023-09-17 13:37:51,188 - BasePage.py:[49] - [INFO] - >Typing on a Element: password_xpath---john11@#AB
+2023-09-17 13:37:51,238 - BasePage.py:[49] - [INFO] - >Typing on a Element: firstname_xpath---Sakib
+2023-09-17 13:37:51,290 - BasePage.py:[49] - [INFO] - >Typing on a Element: lastname_xpath---Al Hasan
+2023-09-17 13:37:51,338 - BasePage.py:[25] - [INFO] - >Clicking on a Element: gender_xpath
+2023-09-17 13:37:51,426 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_toggle_xpath
+2023-09-17 13:37:51,991 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_xpath
+2023-09-17 13:37:52,052 - BasePage.py:[49] - [INFO] - >Typing on a Element: company_xpath---Doe International
+2023-09-17 13:37:52,091 - BasePage.py:[25] - [INFO] - >Clicking on a Element: isTaxAttempth_MENU_xpath
+2023-09-17 13:37:52,151 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_MENU_xpath
+2023-09-17 13:37:52,694 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_subMENU_xpath
+2023-09-17 13:37:52,872 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_xpath
+2023-09-17 13:37:53,412 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_selection_xpath
+2023-09-17 13:37:53,520 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_xpath
+2023-09-17 13:37:53,563 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_selection_xpath
+2023-09-17 13:37:53,629 - BasePage.py:[49] - [INFO] - >Typing on a Element: adminComment_xpath---Level 2 Clearence
+2023-09-17 13:37:58,171 - BasePage.py:[25] - [INFO] - >Clicking on a Element: save_xpath
+2023-09-17 13:38:42,538 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 13:38:42,598 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 13:38:45,758 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_submenu_xpath_firefox
+2023-09-17 13:38:47,311 - BasePage.py:[25] - [INFO] - >Clicking on a Element: add_new_customer_xpath
+2023-09-17 13:38:47,381 - BasePage.py:[49] - [INFO] - >Typing on a Element: email_xpath---sakissssdb@gmssaisssssl.com
+2023-09-17 13:38:47,438 - BasePage.py:[49] - [INFO] - >Typing on a Element: password_xpath---john11@#AB
+2023-09-17 13:38:47,487 - BasePage.py:[49] - [INFO] - >Typing on a Element: firstname_xpath---Sakib
+2023-09-17 13:38:47,537 - BasePage.py:[49] - [INFO] - >Typing on a Element: lastname_xpath---Al Hasan
+2023-09-17 13:38:47,572 - BasePage.py:[25] - [INFO] - >Clicking on a Element: gender_xpath
+2023-09-17 13:38:47,647 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_toggle_xpath
+2023-09-17 13:38:48,209 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_xpath
+2023-09-17 13:38:48,271 - BasePage.py:[49] - [INFO] - >Typing on a Element: company_xpath---Doe International
+2023-09-17 13:38:48,304 - BasePage.py:[25] - [INFO] - >Clicking on a Element: isTaxAttempth_MENU_xpath
+2023-09-17 13:38:48,362 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_MENU_xpath
+2023-09-17 13:38:48,925 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_subMENU_xpath
+2023-09-17 13:38:49,100 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_xpath
+2023-09-17 13:38:49,644 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_selection_xpath
+2023-09-17 13:38:49,750 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_xpath
+2023-09-17 13:38:49,792 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_selection_xpath
+2023-09-17 13:38:49,857 - BasePage.py:[49] - [INFO] - >Typing on a Element: adminComment_xpath---Level 2 Clearence
+2023-09-17 13:38:55,111 - BasePage.py:[25] - [INFO] - >Clicking on a Element: save_xpath
+2023-09-17 13:38:58,166 - test_add_new_customer.py:[33] - [INFO] - >Verifying Data: sakissssdb@gmssaisssssl.com-VS-sakissssdb@gmssaisssssl.com
+2023-09-17 13:44:09,011 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 13:44:09,072 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 13:44:12,457 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_submenu_xpath_firefox
+2023-09-17 13:44:15,449 - BasePage.py:[25] - [INFO] - >Clicking on a Element: add_new_customer_xpath
+2023-09-17 13:44:15,838 - BasePage.py:[49] - [INFO] - >Typing on a Element: email_xpath---sakissssdb@gmssaisssswsl.com
+2023-09-17 13:44:15,894 - BasePage.py:[49] - [INFO] - >Typing on a Element: password_xpath---john11@#AB
+2023-09-17 13:44:15,944 - BasePage.py:[49] - [INFO] - >Typing on a Element: firstname_xpath---Sakib
+2023-09-17 13:44:15,994 - BasePage.py:[49] - [INFO] - >Typing on a Element: lastname_xpath---Al Hasan
+2023-09-17 13:44:16,044 - BasePage.py:[25] - [INFO] - >Clicking on a Element: gender_xpath
+2023-09-17 13:44:16,121 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_toggle_xpath
+2023-09-17 13:44:16,685 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_xpath
+2023-09-17 13:44:16,748 - BasePage.py:[49] - [INFO] - >Typing on a Element: company_xpath---Doe International
+2023-09-17 13:44:16,845 - BasePage.py:[25] - [INFO] - >Clicking on a Element: isTaxAttempth_MENU_xpath
+2023-09-17 13:44:16,903 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_MENU_xpath
+2023-09-17 13:44:17,466 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_subMENU_xpath
+2023-09-17 13:44:17,646 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_xpath
+2023-09-17 13:44:18,203 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_selection_xpath
+2023-09-17 13:44:18,330 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_xpath
+2023-09-17 13:44:18,367 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_selection_xpath
+2023-09-17 13:44:18,440 - BasePage.py:[49] - [INFO] - >Typing on a Element: adminComment_xpath---Level 2 Clearence
+2023-09-17 13:44:23,670 - BasePage.py:[25] - [INFO] - >Clicking on a Element: save_xpath
+2023-09-17 13:44:26,719 - test_add_new_customer.py:[33] - [INFO] - >Verifying Data: sakissssdb@gmssaisssswsl.com-VS-sakissssdb@gmssaisssswsl.com
+2023-09-17 13:44:26,738 - test_add_new_customer.py:[35] - [INFO] - >Verifying Data: Sakib Al Hasan-VS-SakibAl Hasan
+2023-09-17 13:45:33,582 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 13:45:33,640 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 13:45:36,473 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_submenu_xpath_firefox
+2023-09-17 13:45:38,493 - BasePage.py:[25] - [INFO] - >Clicking on a Element: add_new_customer_xpath
+2023-09-17 13:45:38,880 - BasePage.py:[49] - [INFO] - >Typing on a Element: email_xpath---sakissssdb@gmssaisssswsl.com
+2023-09-17 13:45:38,942 - BasePage.py:[49] - [INFO] - >Typing on a Element: password_xpath---john11@#AB
+2023-09-17 13:45:38,991 - BasePage.py:[49] - [INFO] - >Typing on a Element: firstname_xpath---Sakib
+2023-09-17 13:45:39,042 - BasePage.py:[49] - [INFO] - >Typing on a Element: lastname_xpath---Al Hasan
+2023-09-17 13:45:39,075 - BasePage.py:[25] - [INFO] - >Clicking on a Element: gender_xpath
+2023-09-17 13:45:39,162 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_toggle_xpath
+2023-09-17 13:45:39,731 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_xpath
+2023-09-17 13:45:39,793 - BasePage.py:[49] - [INFO] - >Typing on a Element: company_xpath---Doe International
+2023-09-17 13:45:39,828 - BasePage.py:[25] - [INFO] - >Clicking on a Element: isTaxAttempth_MENU_xpath
+2023-09-17 13:45:39,887 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_MENU_xpath
+2023-09-17 13:45:40,446 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_subMENU_xpath
+2023-09-17 13:45:40,626 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_xpath
+2023-09-17 13:45:41,181 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_selection_xpath
+2023-09-17 13:45:41,355 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_xpath
+2023-09-17 13:45:41,394 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_selection_xpath
+2023-09-17 13:45:41,463 - BasePage.py:[49] - [INFO] - >Typing on a Element: adminComment_xpath---Level 2 Clearence
+2023-09-17 13:45:45,633 - BasePage.py:[25] - [INFO] - >Clicking on a Element: save_xpath
+2023-09-17 13:46:47,829 - BasePage.py:[25] - [INFO] - >Clicking on a Element: login_xpath
+2023-09-17 13:46:47,889 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_xpath_firefox
+2023-09-17 13:46:51,210 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_dropdown_submenu_xpath_firefox
+2023-09-17 13:46:53,891 - BasePage.py:[25] - [INFO] - >Clicking on a Element: add_new_customer_xpath
+2023-09-17 13:46:54,305 - BasePage.py:[49] - [INFO] - >Typing on a Element: email_xpath---sorry@testingpurpose.com
+2023-09-17 13:46:54,383 - BasePage.py:[49] - [INFO] - >Typing on a Element: password_xpath---john11@#AB
+2023-09-17 13:46:54,424 - BasePage.py:[49] - [INFO] - >Typing on a Element: firstname_xpath---Sakib
+2023-09-17 13:46:54,474 - BasePage.py:[49] - [INFO] - >Typing on a Element: lastname_xpath---Al Hasan
+2023-09-17 13:46:54,525 - BasePage.py:[25] - [INFO] - >Clicking on a Element: gender_xpath
+2023-09-17 13:46:54,599 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_toggle_xpath
+2023-09-17 13:46:55,165 - BasePage.py:[25] - [INFO] - >Clicking on a Element: dateofbirth_xpath
+2023-09-17 13:46:55,232 - BasePage.py:[49] - [INFO] - >Typing on a Element: company_xpath---Doe International
+2023-09-17 13:46:55,276 - BasePage.py:[25] - [INFO] - >Clicking on a Element: isTaxAttempth_MENU_xpath
+2023-09-17 13:46:55,335 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_MENU_xpath
+2023-09-17 13:46:55,896 - BasePage.py:[25] - [INFO] - >Clicking on a Element: newsletter_subMENU_xpath
+2023-09-17 13:46:56,026 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_xpath
+2023-09-17 13:46:56,087 - BasePage.py:[25] - [INFO] - >Clicking on a Element: customer_role_selection_xpath
+2023-09-17 13:46:56,205 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_xpath
+2023-09-17 13:46:56,243 - BasePage.py:[25] - [INFO] - >Clicking on a Element: Vendor_MENU_selection_xpath
+2023-09-17 13:46:56,304 - BasePage.py:[49] - [INFO] - >Typing on a Element: adminComment_xpath---Level 2 Clearence
+2023-09-17 13:47:01,524 - BasePage.py:[25] - [INFO] - >Clicking on a Element: save_xpath
+2023-09-17 13:47:04,602 - test_add_new_customer.py:[33] - [INFO] - >Verifying Data: sorry@testingpurpose.com-VS-sorry@testingpurpose.com
+2023-09-17 13:47:04,617 - test_add_new_customer.py:[35] - [INFO] - >Verifying Data: Sakib Al Hasan-VS-SakibAl Hasan
